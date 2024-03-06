@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "first sommit"
+git branch -M main
+git remote add origin https://github.com/mvickya45/mvickya45.github.io.git
+git push -u origin main
+
+untuk update code
+git init
+git add .
+git push origin main
